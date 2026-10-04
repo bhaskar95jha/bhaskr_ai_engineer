@@ -249,7 +249,7 @@ def step3_match(candidate,jd):
     1 and 100. also produce a short verdict whther the candidate is a good fit for the role.
     """
     user_prompt=f"""
-    Compare and matc h the skills
+    Compare and match the skills
     JD:
     {jd}
     Candidate:
